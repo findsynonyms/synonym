@@ -5,3 +5,4 @@ The results should be in the form of complete html document that can also be use
 Identify the best programming language for developing such big thesaurus site.
 To develop a new API for JSON based result set of related words.
 We will use https://pasttenses.com for creating our API for synonyms.
+Tags: Related words, synonym, similar words, other words
